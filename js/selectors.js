@@ -1,5 +1,5 @@
 // declare your functions here...
-$ ('p')
+paragraphSelector = $ ('p')
 $ ('img:last')
 $ ('#baby-ninja')
 $ ('.pics')

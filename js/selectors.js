@@ -2,7 +2,15 @@
 function paragraphSelector(){
   return $('p');
 }
-$ ('img:last')
-$ ('#baby-ninja')
-$ ('.pics')
-$ ('ul:first-child')
+function lastImageSelector () {
+  return $ ('img:last');
+}
+function ninjaBabySelector () {
+  return $ ('#baby-ninja');
+}
+function divSelector () {
+  return $ ('.pics');
+}
+function firstListItem () {
+return $ ('ul:first-child');
+}

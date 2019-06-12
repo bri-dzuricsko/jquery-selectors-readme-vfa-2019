@@ -1,5 +1,8 @@
 // declare your functions here...
-function paragraphSelector () {$ ('p')}
+function paragraphSelector () {$ 
+return ('p');
+  
+}
 $ ('img:last')
 $ ('#baby-ninja')
 $ ('.pics')
